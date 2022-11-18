@@ -3,7 +3,7 @@ All my projects of my Piscine 42 Nice <br />
 July 2022
 
 ## My Grades
-| Project  |       Status       | Mark |   | Project|       Status       | Mark |   | Project    |       Status       | Mark |
+| Project  |       Status       | Note |   | Project|       Status       | Note |   | Project    |       Status       | Note |
 |:--------:|:------------------:|:----:|---|:------:|:------------------:|:----:|---|:----------:|:------------------:|:----:|
 | Shell_00 | :white_check_mark: |  70  |   | C_06   | :white_check_mark: |  100 |   | Rush_00    |         :x:        |   0  |
 | Shell_01 | :white_check_mark: |  70  |   | C_07   | :white_check_mark: |  60  |   | Rush_01    |         :x:        |   0  |
